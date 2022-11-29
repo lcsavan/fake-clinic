@@ -1,2 +1,2 @@
 # fake-clinic
-HTML + CSS + BOOTSTRAP
+HTML + JS + BOOTSTRAP
